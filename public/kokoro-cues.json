@@ -1,0 +1,435 @@
+{
+  "durationSeconds": 40.44,
+  "durationInFrames": 1214,
+  "beatTimings": {
+    "b1": {
+      "startSec": 0.15,
+      "endSec": 2.967,
+      "startFrame": 4,
+      "endFrame": 89,
+      "text": "In this town, your hair color decides your whole life."
+    },
+    "b2": {
+      "startSec": 3.047,
+      "endSec": 6.427,
+      "startFrame": 91,
+      "endFrame": 193,
+      "text": "Black hair? You're a cop. Blonde? A teacher. Brown? You build houses."
+    },
+    "b3": {
+      "startSec": 6.507,
+      "endSec": 9.324,
+      "startFrame": 195,
+      "endFrame": 280,
+      "text": "On day one, the school sorts every kid by hair."
+    },
+    "b4": {
+      "startSec": 9.394,
+      "endSec": 12.493,
+      "startFrame": 282,
+      "endFrame": 375,
+      "text": "But nobody here had ever been born a ginger. Until me."
+    },
+    "b5": {
+      "startSec": 12.593,
+      "endSec": 15.973,
+      "startFrame": 378,
+      "endFrame": 479,
+      "text": "No class would take me, so I sat alone in the hallway."
+    },
+    "b6": {
+      "startSec": 16.043,
+      "endSec": 18.578,
+      "startFrame": 481,
+      "endFrame": 557,
+      "text": "The bully called me the glitch, and everyone laughed."
+    },
+    "b7": {
+      "startSec": 18.658,
+      "endSec": 20.912,
+      "startFrame": 560,
+      "endFrame": 627,
+      "text": "Every morning, my mom dyed my hair brown."
+    },
+    "b8": {
+      "startSec": 20.972,
+      "endSec": 23.225,
+      "startFrame": 629,
+      "endFrame": 697,
+      "text": "And every day, it washed out by lunch."
+    },
+    "b9": {
+      "startSec": 23.315,
+      "endSec": 26.132,
+      "startFrame": 699,
+      "endFrame": 784,
+      "text": "Then the principal opened the oldest rule book in town."
+    },
+    "b10": {
+      "startSec": 26.202,
+      "endSec": 28.737,
+      "startFrame": 786,
+      "endFrame": 862,
+      "text": "On the last page, in red ink, it said..."
+    },
+    "w1": {
+      "startSec": 28.877,
+      "endSec": 29.477,
+      "startFrame": 866,
+      "endFrame": 884,
+      "text": "GINGER!"
+    },
+    "w2": {
+      "startSec": 29.597,
+      "endSec": 30.197,
+      "startFrame": 888,
+      "endFrame": 906,
+      "text": "IS!"
+    },
+    "w3": {
+      "startSec": 30.317,
+      "endSec": 30.917,
+      "startFrame": 910,
+      "endFrame": 928,
+      "text": "MAYOR!"
+    },
+    "b11": {
+      "startSec": 31.097,
+      "endSec": 34.196,
+      "startFrame": 933,
+      "endFrame": 1026,
+      "text": "Now the bully sweeps the street in front of my house."
+    },
+    "b12": {
+      "startSec": 34.266,
+      "endSec": 36.519,
+      "startFrame": 1028,
+      "endFrame": 1096,
+      "text": "And mom finally threw away the brown dye."
+    },
+    "b13": {
+      "startSec": 36.639,
+      "endSec": 39.738,
+      "startFrame": 1099,
+      "endFrame": 1192,
+      "text": "But last night, my baby brother was born... with blue hair."
+    }
+  },
+  "captions": [
+    {
+      "startFrame": 4,
+      "endFrame": 15,
+      "text": "In this"
+    },
+    {
+      "startFrame": 16,
+      "endFrame": 32,
+      "text": "town, your"
+    },
+    {
+      "startFrame": 33,
+      "endFrame": 49,
+      "text": "hair color"
+    },
+    {
+      "startFrame": 50,
+      "endFrame": 69,
+      "text": "decides your"
+    },
+    {
+      "startFrame": 70,
+      "endFrame": 88,
+      "text": "whole life."
+    },
+    {
+      "startFrame": 91,
+      "endFrame": 108,
+      "text": "Black hair?"
+    },
+    {
+      "startFrame": 109,
+      "endFrame": 128,
+      "text": "You're a cop."
+    },
+    {
+      "startFrame": 129,
+      "endFrame": 156,
+      "text": "Blonde? A teacher."
+    },
+    {
+      "startFrame": 157,
+      "endFrame": 172,
+      "text": "Brown? You"
+    },
+    {
+      "startFrame": 173,
+      "endFrame": 192,
+      "text": "build houses."
+    },
+    {
+      "startFrame": 195,
+      "endFrame": 206,
+      "text": "On day"
+    },
+    {
+      "startFrame": 207,
+      "endFrame": 222,
+      "text": "one, the"
+    },
+    {
+      "startFrame": 223,
+      "endFrame": 245,
+      "text": "school sorts"
+    },
+    {
+      "startFrame": 246,
+      "endFrame": 263,
+      "text": "every kid"
+    },
+    {
+      "startFrame": 264,
+      "endFrame": 279,
+      "text": "by hair."
+    },
+    {
+      "startFrame": 282,
+      "endFrame": 299,
+      "text": "But nobody"
+    },
+    {
+      "startFrame": 300,
+      "endFrame": 314,
+      "text": "here had"
+    },
+    {
+      "startFrame": 315,
+      "endFrame": 331,
+      "text": "ever been"
+    },
+    {
+      "startFrame": 332,
+      "endFrame": 357,
+      "text": "born a ginger."
+    },
+    {
+      "startFrame": 358,
+      "endFrame": 374,
+      "text": "Until me."
+    },
+    {
+      "startFrame": 378,
+      "endFrame": 393,
+      "text": "No class"
+    },
+    {
+      "startFrame": 394,
+      "endFrame": 414,
+      "text": "would take"
+    },
+    {
+      "startFrame": 415,
+      "endFrame": 431,
+      "text": "me, so I"
+    },
+    {
+      "startFrame": 432,
+      "endFrame": 449,
+      "text": "sat alone"
+    },
+    {
+      "startFrame": 450,
+      "endFrame": 462,
+      "text": "in the"
+    },
+    {
+      "startFrame": 463,
+      "endFrame": 478,
+      "text": "hallway."
+    },
+    {
+      "startFrame": 481,
+      "endFrame": 494,
+      "text": "The bully"
+    },
+    {
+      "startFrame": 495,
+      "endFrame": 514,
+      "text": "called me the"
+    },
+    {
+      "startFrame": 515,
+      "endFrame": 530,
+      "text": "glitch, and"
+    },
+    {
+      "startFrame": 531,
+      "endFrame": 556,
+      "text": "everyone laughed."
+    },
+    {
+      "startFrame": 560,
+      "endFrame": 584,
+      "text": "Every morning,"
+    },
+    {
+      "startFrame": 585,
+      "endFrame": 594,
+      "text": "my mom"
+    },
+    {
+      "startFrame": 595,
+      "endFrame": 616,
+      "text": "dyed my hair"
+    },
+    {
+      "startFrame": 617,
+      "endFrame": 626,
+      "text": "brown."
+    },
+    {
+      "startFrame": 629,
+      "endFrame": 645,
+      "text": "And every"
+    },
+    {
+      "startFrame": 646,
+      "endFrame": 671,
+      "text": "day, it washed"
+    },
+    {
+      "startFrame": 672,
+      "endFrame": 696,
+      "text": "out by lunch."
+    },
+    {
+      "startFrame": 699,
+      "endFrame": 712,
+      "text": "Then the"
+    },
+    {
+      "startFrame": 713,
+      "endFrame": 738,
+      "text": "principal opened"
+    },
+    {
+      "startFrame": 739,
+      "endFrame": 755,
+      "text": "the oldest"
+    },
+    {
+      "startFrame": 756,
+      "endFrame": 770,
+      "text": "rule book"
+    },
+    {
+      "startFrame": 771,
+      "endFrame": 783,
+      "text": "in town."
+    },
+    {
+      "startFrame": 786,
+      "endFrame": 797,
+      "text": "On the"
+    },
+    {
+      "startFrame": 798,
+      "endFrame": 818,
+      "text": "last page,"
+    },
+    {
+      "startFrame": 819,
+      "endFrame": 830,
+      "text": "in red"
+    },
+    {
+      "startFrame": 831,
+      "endFrame": 861,
+      "text": "ink, it said..."
+    },
+    {
+      "startFrame": 866,
+      "endFrame": 887,
+      "text": "GINGER!"
+    },
+    {
+      "startFrame": 888,
+      "endFrame": 909,
+      "text": "IS!"
+    },
+    {
+      "startFrame": 910,
+      "endFrame": 931,
+      "text": "MAYOR!"
+    },
+    {
+      "startFrame": 933,
+      "endFrame": 945,
+      "text": "Now the"
+    },
+    {
+      "startFrame": 946,
+      "endFrame": 968,
+      "text": "bully sweeps"
+    },
+    {
+      "startFrame": 969,
+      "endFrame": 987,
+      "text": "the street"
+    },
+    {
+      "startFrame": 988,
+      "endFrame": 1002,
+      "text": "in front"
+    },
+    {
+      "startFrame": 1003,
+      "endFrame": 1025,
+      "text": "of my house."
+    },
+    {
+      "startFrame": 1028,
+      "endFrame": 1039,
+      "text": "And mom"
+    },
+    {
+      "startFrame": 1040,
+      "endFrame": 1063,
+      "text": "finally threw"
+    },
+    {
+      "startFrame": 1064,
+      "endFrame": 1077,
+      "text": "away the"
+    },
+    {
+      "startFrame": 1078,
+      "endFrame": 1095,
+      "text": "brown dye."
+    },
+    {
+      "startFrame": 1099,
+      "endFrame": 1112,
+      "text": "But last"
+    },
+    {
+      "startFrame": 1113,
+      "endFrame": 1135,
+      "text": "night, my baby"
+    },
+    {
+      "startFrame": 1136,
+      "endFrame": 1154,
+      "text": "brother was"
+    },
+    {
+      "startFrame": 1155,
+      "endFrame": 1174,
+      "text": "born... with"
+    },
+    {
+      "startFrame": 1175,
+      "endFrame": 1191,
+      "text": "blue hair."
+    }
+  ]
+}
